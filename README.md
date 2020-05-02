@@ -41,7 +41,6 @@ This all may seem fairly straight forward but by breaking down the design into m
 * Edo Period Prints
 * Wabi Sabi
 * Swiss Design
-* 
 
 ## Useful Websites
 
@@ -102,7 +101,7 @@ Simple list of notes that I took from the course. I would only look through this
 * Scale and cropping, doing this to images makes things way more interesting
 * Anchoring content on a page to keep things from getting lost in the page
 * Grid anchoring is very important to the design
-* Seperate out the design from the development to make things easier (mocks and then code)
+* Separate out the design from the development to make things easier (mocks and then code)
 * Can create more stylized layouts to show people interesting layouts
 * Need to practice more to get better at things, you cannot expect to be a good designer without putting in the effort
 * Be mindful that designers go through entire degrees to acquire their skills so simply following an online course will not make you a designer (ie. try not to upset the designers you work with)
@@ -174,4 +173,4 @@ Simple list of notes that I took from the course. I would only look through this
 * Loaders help with perceived load times (custom loaders are best, they hook people for longer)
 * Anxiety makes peoples wait times feel longer (doctors office example, they tend to bring you into the room and make you wait there instead)
 * Motion design language, your own languages add character to your website
-* Types of prototypes: thumbnails (messy designs for yourself), storyboards (higher fidelity), low-fi, hi-fi 
+* Types of prototypes: thumbnails (messy designs for yourself), storyboards (higher fidelity), low-fi, hi-fi
