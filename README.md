@@ -36,10 +36,74 @@ This all may seem fairly straight forward but by breaking down the design into m
 * Typography for Lawyers
 * Stealing your way to original design (an essay)
 
+## Inspirational Art Styles
+
+* Edo Period Prints
+* Wabi Sabi
+* Swiss Design
+* 
+
+## Useful Websites
+
+* [Dribbble](https://dribbble.com/)
+* [Grid By Example](https://gridbyexample.com/)
+* [The Experimental Layout Lab](https://labs.jensimmons.com/)
+* [A Complete Guide To Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Grid Garden](https://cssgridgarden.com/)
+* [Web Animation Workshops](https://webanimationworkshops.com/)
+* [Clipping](https://bennettfeely.com/clippy/)
+* [React Motion](https://codepen.io/sdras/full/XdgBOa)
+* [Use Codepen for Building out Designs](https://codepen.io/)
+* [Colorable](https://colorable.jxnblk.com/)
+* [Color CC](https://color.adobe.com/create)
+* [Color Theory for Designers](https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/)
+* [Coolors](https://coolors.co/)
+* [Paletton](https://paletton.com/)
+* [Palettab](https://palettab.com/)
+* [Adobe Capture](https://www.adobe.com/ca/products/capture.html)
+* [Ultimate CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/)
+* [UI Gradients](https://uigradients.com/#Ver)
+* [Cool Website](https://ich.unesco.org/dive/biome/?language=en)
+* [Unsplash](https://unsplash.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [Font Squirrel](https://www.fontsquirrel.com/)
+* [Fonts.com](https://www.fonts.com/)
+* [Hoefler&Co](https://www.typography.com/)
+* [FontJoy](https://fontjoy.com/)
+* [Responsive Text Desktop to Mobile](https://codepen.io/MadeByMike/)
+* [Behance](https://www.behance.net/)
+* [Glitch](https://glitch.com/)
+* [Code Sandbox](https://codesandbox.io/)
+* [Give 'n' Go](https://give-n-go.co/)
+* [Unique Photoshop Actions](https://creativemarket.com/add-ons/photoshop/actions)
+* [UI Patterns](https://codepen.io/topics/ui-patterns)
+* [The Noun Project](https://thenounproject.com/)
+* [High Performance SVGs](https://css-tricks.com/high-performance-svgs/)
+* [Cool SVG by Sarah Drasner](https://codepen.io/sdras/full/waXKPw)
+* [Masking vs Clipping](https://css-tricks.com/masking-vs-clipping-use/)
+* [Perfect Fullpage Background Image](https://css-tricks.com/perfect-full-page-background-image/)
+* [Writing Feature Requirements](https://css-tricks.com/writing-feature-requirements/)
+* [Storymaps](https://medium.com/design-story/story-map-3cc64033128e)
+* [Fluid Motion](https://codepen.io/sdras/pen/JbaGwg)
+* [LowFi Workflow](https://codepen.io/sdras/pen/594d891abedf804e87bffe48ee30aace)
+* [Interactable Design with Codepen](https://codepen.io/yusufbkr/pen/ORBArk)
+* [React Component Analyzer](https://codepen.io/sdras/pen/2ae1eadb3a80e26daf3aae54cd148c61)
+* [Cool Website](https://rallyinteractive.com/)
+* [Codrops](https://tympanus.net/codrops/)
+* [Page Flip Layout](https://tympanus.net/Development/PageFlipLayout/)
+* [Flip Transitions Repo](https://github.com/davidkpiano/flipping)
+
 ## Course Notes
 
 Simple list of notes that I took from the course. I would only look through this if you are interested.
 
+* Setup folders for inspiration, dev and src code
+* Circles live outside of lines
+* Scale and cropping, doing this to images makes things way more interesting
+* Anchoring content on a page to keep things from getting lost in the page
+* Grid anchoring is very important to the design
+* Seperate out the design from the development to make things easier (mocks and then code)
+* Can create more stylized layouts to show people interesting layouts
 * Need to practice more to get better at things, you cannot expect to be a good designer without putting in the effort
 * Be mindful that designers go through entire degrees to acquire their skills so simply following an online course will not make you a designer (ie. try not to upset the designers you work with)
 * Symmetry in balance, but breaking the symmetry provides a call to action, there is a subtle balance to symmetry and asymmetry
